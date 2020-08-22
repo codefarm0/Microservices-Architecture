@@ -7,34 +7,34 @@ Each video will have -
 * Possible available solutions
 
 
-👉 [Monolith vs Microservices - An Analysis] - Todo
+👉 [Monolith vs Microservices - An Analysis]
 
-👉 [Boundaries around microservices | Guidelines to follow when designing microservices application] - Todo
+👉 [Boundaries around microservices | Guidelines to follow when designing microservices application]
 
-👉 [Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery] - Todo
+👉 [Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery]
 
-👉 [How to make microservice configurable - cloud config, vault] - Todo
+👉 [How to make microservice configurable - cloud config, vault]
 
-👉 [Communication among microservices] - Todo
+👉 [Communication among microservices]
 
 * REST endpoints - Synchronous
 * Messaging - Async
 
-👉 [Service registry and discovery] - Todo
+👉 [Service registry and discovery]
 
-👉 [Circuit Breaker | Fault Tolerance pattern] - Todo
+👉 [Circuit Breaker | Fault Tolerance pattern]
 
-👉 [Load Balancer] - Todo
+👉 [Load Balancer]
 
-👉 [Log aggregation & Distributed Tracing] - Todo
+👉 [Log aggregation & Distributed Tracing]
 
-👉 [API gateway] - Todo
+👉 [API gateway]
 
-👉 [Securing microservices] - Todo
+👉 [Securing microservices]
 
-👉 [Health checker and exception tracking] - Todo
+👉 [Health checker and exception tracking]
 
-👉 [Deployment patterns] - Todo
+👉 [Deployment patterns]
 
  * Multiple service instance per host
  
@@ -45,21 +45,21 @@ Each video will have -
  * Serverless deployment
  
 
-👉 [Testing microservices] - Todo
+👉 [Testing microservices]
 
-👉 [Event sourcing] - Todo
+👉 [Event sourcing]
 
 * ref - https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing?utm_source=thenewstack&utm_medium=website
 
-👉 [Design patterns for microservices] - Todo
+👉 [Design patterns for microservices]
 
 * https://dzone.com/articles/design-patterns-for-microservices
 
 * https://microservices.io/patterns/microservices.html
 
-👉 [Event loop] - Todo
+👉 [Event loop]
 
-👉 [Reactive microservices] - Todo
+👉 [Reactive microservices]
 
 
 
