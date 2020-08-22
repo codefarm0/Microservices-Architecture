@@ -7,34 +7,34 @@ Each video will have -
 * Possible available solutions
 
 
-🟢 [Monolith vs Microservices - An Analysis] - Todo
+👉 [Monolith vs Microservices - An Analysis] - Todo
 
-🟢 [Boundaries around microservices | Guidelines to follow when designing microservices application] - Todo
+👉 [Boundaries around microservices | Guidelines to follow when designing microservices application] - Todo
 
-🟢 [Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery] - Todo
+👉 [Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery] - Todo
 
-🟢 [How to make microservice configurable - cloud config, vault] - Todo
+👉 [How to make microservice configurable - cloud config, vault] - Todo
 
-🟢 [Communication among microservices] - Todo
+👉 [Communication among microservices] - Todo
 
 * REST endpoints - Synchronous
 * Messaging - Async
 
-🟢 [Service registry and discovery] - Todo
+👉 [Service registry and discovery] - Todo
 
-🟢 [Circuit Breaker | Fault Tolerance pattern] - Todo
+👉 [Circuit Breaker | Fault Tolerance pattern] - Todo
 
-🟢 [Load Balancer] - Todo
+👉 [Load Balancer] - Todo
 
-🟢 [Log aggregation & Distributed Tracing] - Todo
+👉 [Log aggregation & Distributed Tracing] - Todo
 
-🟢 [API gateway] - Todo
+👉 [API gateway] - Todo
 
-🟢 [Securing microservices] - Todo
+👉 [Securing microservices] - Todo
 
-🟢 [Health checker and exception tracking] - Todo
+👉 [Health checker and exception tracking] - Todo
 
-🟢 [Deployment patterns] - Todo
+👉 [Deployment patterns] - Todo
 
  * Multiple service instance per host
  
@@ -45,21 +45,21 @@ Each video will have -
  * Serverless deployment
  
 
-🟢 [Testing microservices] - Todo
+👉 [Testing microservices] - Todo
 
-🟢 [Event sourcing] - Todo
+👉 [Event sourcing] - Todo
 
 * ref - https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing?utm_source=thenewstack&utm_medium=website
 
-🟢 [Design patterns for microservices] - Todo
+👉 [Design patterns for microservices] - Todo
 
 * https://dzone.com/articles/design-patterns-for-microservices
 
 * https://microservices.io/patterns/microservices.html
 
-🟢 [Event loop] - Todo
+👉 [Event loop] - Todo
 
-🟢 [Reactive microservices] - Todo
+👉 [Reactive microservices] - Todo
 
 
 
