@@ -1,11 +1,7 @@
 # Microservices-Architecture
 Microservices Architecture from scratch with real time examples.
-Each video will have - 
 
-* Problem discussion
-* Architecture explanation
-* Possible available solutions
-
+👉 [Course Plan](https://youtube.com/greenlearner)
 
 👉 [Monolith vs Microservices - An Analysis]
 
