@@ -5,7 +5,7 @@ Microservices Architecture from scratch with real time examples.
 
 👉 [Monolith vs Microservices - An Analysis]
 
-👉 [Boundaries around microservices | Guidelines to follow when designing microservices application]
+👉 [Design Principles | Boundaries around microservices | Guidelines to follow when designing microservices application]
 
 👉 [Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery]
 
