@@ -3,7 +3,7 @@ Microservices Architecture from scratch with real time examples.
 
 👉 [Course Plan](https://youtube.com/greenlearner)
 
-👉 [Monolith vs Microservices - An Analysis]
+👉 [Monolith vs Microservices - An Analysis](https://youtu.be/wRWxf8cU6pU)
 
 👉 [Design Principles | Boundaries around microservices | Guidelines to follow when designing microservices application]
 
