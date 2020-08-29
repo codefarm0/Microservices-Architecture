@@ -5,7 +5,7 @@ Microservices Architecture from scratch with real time examples.
 
 👉 [Monolith vs Microservices - An Analysis](https://youtu.be/wRWxf8cU6pU)
 
-👉 [Design Principles | Boundaries around microservices | Guidelines to follow when designing microservices application]
+👉 [Design Principles | Boundaries around microservices | Guidelines to follow when designing microservices application](https://youtu.be/PXkdFs2GSwE)
 
 👉 [Microservices : Design Patterns]
 
