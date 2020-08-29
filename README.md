@@ -7,7 +7,19 @@ Microservices Architecture from scratch with real time examples.
 
 👉 [Design Principles | Boundaries around microservices | Guidelines to follow when designing microservices application]
 
-👉 [Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery]
+👉 [Microservices : Design Patterns]
+
+Microservices Characteristics : 
+
+* Scalability 
+
+* Availability 
+
+* Resiliency 
+
+* Isolating Failures 
+
+* Continuous delivery
 
 👉 [How to make microservice configurable - cloud config, vault]
 
