@@ -13,7 +13,7 @@ Microservices Architecture from scratch with real time examples.
  
  ⏩ [Microservices Decomposition Pattern : By Domain and Subdomain](https://youtu.be/_U36FMfU1-M)
  
- ⏩ Microservices Decomposition Pattern : Strangler Vine Pattern
+ ⏩ [Microservices Decomposition Pattern : Strangler Vine Pattern](https://youtu.be/9qfhb9rQ9Q8)
  
  ⏩ Microservices Decomposition Pattern : Sidecar Pattern / Service Mesh
  
