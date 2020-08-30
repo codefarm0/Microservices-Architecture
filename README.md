@@ -9,49 +9,69 @@ Microservices Architecture from scratch with real time examples.
 
 👉 [Microservices : Design Patterns](https://youtu.be/SkE0-i6rkFA)
 
-Microservices Characteristics : 
+Microservices Characteristics :  Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery
 
-* Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery
+⏩ Microservices Decomposition Pattern : By Domain and Subdomain
 
-* ⏩ Decomposition by Domain and Subdomain
+⏩ Microservices Decomposition Pattern : Strangler Vine Pattern
 
-* ⏩
+⏩ Microservices Decomposition Pattern : Sidecar Pattern / Service Mesh
 
-* ⏩
+⏩ Microservices Database Pattern : Database per service & Shared Database per service
 
-* ⏩
+⏩ Microservices Database Pattern : CQRS
 
-👉 [How to make microservice configurable - cloud config, vault]
+⏩ Microservices Database Pattern : SAGA
 
-👉 [Communication among microservices]
+⏩ Microservices Database Pattern : Event Sourcing
 
-* REST endpoints - Synchronous
-* Messaging - Async
+⏩ Microservices Communication : Syncronous communication among services
 
-👉 [Service registry and discovery]
+⏩ Microservices Communication : Asyncronous communication among services
 
-👉 [Circuit Breaker | Fault Tolerance pattern]
+⏩ Understanding Communication Medium
+
+* Http REST - XML/ JSON
+
+* GraphQL
+
+* gRPC
+
+⏩ Microservices Integration Patterns : API Gateway
+
+⏩ Microservices Integration Patterns : Aggregator Patter
+
+* Chained Pattern
+
+* Branch Pattern
+
+⏩ Microservices Integration Patterns : Clientside UI Composition Pattern
+
+⏩ Microservices Deployment Patterns : Multiple service instances per host & Service instance per host
+
+⏩ Microservices Deployment Patterns : Service Instance per VM
+
+⏩ Microservices Deployment Patterns : Service instance per container
+
+⏩ Microservices Deployment Patterns : Serverless pattern
+
+⏩ Microservices Deployment Patterns : Blue-Green deployment
+
+⏩ Microservices Deployment Patterns : Canary deployment
+
+⏩ Microservices Observable Patterns : Log Aggregation & Distributed Tracing
+
+⏩ Microservices Observable Patterns : Health Check & Performance Metrics
+
+⏩ Microservices Cross Cutting Concern Patterns : External Configuration
+
+⏩ Microservices Cross Cutting Concern Patterns : Service Discovery & Registration Pattern
+
+⏩ Microservices Cross Cutting Concern Patterns : Circuit Breaker Pattern
 
 👉 [Load Balancer]
 
-👉 [Log aggregation & Distributed Tracing]
-
-👉 [API gateway]
-
 👉 [Securing microservices]
-
-👉 [Health checker and exception tracking]
-
-👉 [Deployment patterns]
-
- * Multiple service instance per host
- 
- * Service instance per VM
- 
- * Service instance per container
- 
- * Serverless deployment
- 
 
 👉 [Testing microservices]
 
