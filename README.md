@@ -15,7 +15,9 @@ Microservices Architecture from scratch with real time examples.
  
  ⏩ [Microservices Decomposition Pattern : Strangler Vine Pattern](https://youtu.be/9qfhb9rQ9Q8)
  
- ⏩ Microservices Decomposition Pattern : Sidecar Pattern / Service Mesh
+ ⏩ [Microservices Decomposition Pattern : Sidecar Pattern](https://youtu.be/NQzZq9uRmtg)
+ 
+ ⏩ [Microservices Decomposition Pattern : Service Mesh]
  
  ⏩ Microservices Database Pattern : Database per service & Shared Database per service
  
