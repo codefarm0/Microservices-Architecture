@@ -17,11 +17,13 @@ Microservices Architecture from scratch with real time examples.
  
  ⏩ [Microservices Decomposition Pattern : Sidecar Pattern](https://youtu.be/NQzZq9uRmtg)
  
- ⏩ [Microservices Decomposition Pattern : Service Mesh]
+ ⏩ [Microservices Decomposition Pattern : Service Mesh](https://youtu.be/u0-nWUL1I8g)
  
- ⏩ Microservices Database Pattern : Database per service & Shared Database per service
+ ⏩ [Microservices Database Pattern : Database per service & Shared Database per service](https://youtu.be/azaksuZ3I8w)
  
- ⏩ Microservices Database Pattern : CQRS
+ ⏩ [Microservices Database Pattern : CQRS - Command Query Responsibility Segregation](https://youtu.be/hrmeeCEqzo8)
+ 
+ ⏩ [Microservices Database Pattern : Data Consistency - Eventual vs Strong Consistency]
  
  ⏩ Microservices Database Pattern : SAGA
  
