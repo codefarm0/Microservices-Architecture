@@ -23,23 +23,27 @@ Microservices Architecture from scratch with real time examples.
  
  ⏩ [Microservices Database Pattern : CQRS - Command Query Responsibility Segregation](https://youtu.be/hrmeeCEqzo8)
  
- ⏩ [Microservices Database Pattern : Data Consistency - Eventual vs Strong Consistency]
+ ⏩ [Microservices Database Pattern : Data Consistency - Eventual vs Strong Consistency](https://youtu.be/SI9Ocb691ps)
  
- ⏩ Microservices Database Pattern : SAGA
+ ⏩ [Microservices Database Pattern : Event-Driven Architecture](https://youtu.be/ig24OzLH5gg)
  
- ⏩ Microservices Database Pattern : Event Sourcing
+ ⏩ [Microservices Database Pattern : Event Sourcing](https://youtu.be/vMKA5SotUjQ)
  
- ⏩ Microservices Communication : Syncronous communication among services
- 
- ⏩ Microservices Communication : Asyncronous communication among services
- 
- ⏩ Understanding Communication Medium
- 
-   * Http REST - XML/ JSON
+ ⏩ [Microservices Database Pattern : 2 Phase Commit](https://youtu.be/ZU122mPpsBE)
   
-   * GraphQL
-
-   * gRPC
+ ⏩ [Microservices Database Pattern : SAGA](https://youtu.be/69kqVIvp4p8)
+ 
+ ⏩ [Microservices Database Pattern : Summary](https://youtu.be/G1M3fGeadkY)
+ 
+ ⏩ [Microservices Communication : How microservices talk to each other](https://youtu.be/sFuFmhYTa9I)
+ 
+ ⏩ [Microservices Communication : Synchronous vs Asyncronous](https://youtu.be/S4U4n8qb13Q)
+ 
+ ⏩ [Microservices Communication :HTTP & REST](https://youtu.be/Kt8vq4hPSeU)
+ 
+ ⏩ [Microservices Communication: Message Based Communication](https://youtu.be/1GifcBWmXx0)
+ 
+ ⏩ [Microservices Communication: GraphQL](https://youtu.be/1GifcBWmXx0)
 
  ⏩ Microservices Integration Patterns : API Gateway
  
