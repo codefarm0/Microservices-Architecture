@@ -1,65 +1,101 @@
 # Microservices-Architecture
 Microservices Architecture from scratch with real time examples.
-Each video will have - 
 
-* Problem discussion
-* Architecture explanation
-* Possible available solutions
+👉 [Course Plan](https://youtube.com/greenlearner)
 
+👉 [Monolith vs Microservices - An Analysis](https://youtu.be/wRWxf8cU6pU)
 
-🟢 [Monolith vs Microservices - An Analysis] - Todo
+👉 [Design Principles | Boundaries around microservices | Guidelines to follow when designing microservices application](https://youtu.be/PXkdFs2GSwE)
 
-🟢 [Boundaries around microservices | Guidelines to follow when designing microservices application] - Todo
+👉 [Microservices : Design Patterns](https://youtu.be/SkE0-i6rkFA)
 
-🟢 [Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery] - Todo
-
-🟢 [How to make microservice configurable - cloud config, vault] - Todo
-
-🟢 [Communication among microservices] - Todo
-
-* REST endpoints - Synchronous
-* Messaging - Async
-
-🟢 [Service registry and discovery] - Todo
-
-🟢 [Circuit Breaker | Fault Tolerance pattern] - Todo
-
-🟢 [Load Balancer] - Todo
-
-🟢 [Log aggregation & Distributed Tracing] - Todo
-
-🟢 [API gateway] - Todo
-
-🟢 [Securing microservices] - Todo
-
-🟢 [Health checker and exception tracking] - Todo
-
-🟢 [Deployment patterns] - Todo
-
- * Multiple service instance per host
+ Microservices Characteristics :  Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery
  
- * Service instance per VM
+ ⏩ [Microservices Decomposition Pattern : By Domain and Subdomain](https://youtu.be/_U36FMfU1-M)
  
- * Service instance per container
+ ⏩ [Microservices Decomposition Pattern : Strangler Vine Pattern](https://youtu.be/9qfhb9rQ9Q8)
  
- * Serverless deployment
+ ⏩ [Microservices Decomposition Pattern : Sidecar Pattern](https://youtu.be/NQzZq9uRmtg)
  
+ ⏩ [Microservices Decomposition Pattern : Service Mesh](https://youtu.be/u0-nWUL1I8g)
+ 
+ ⏩ [Microservices Database Pattern : Database per service & Shared Database per service](https://youtu.be/azaksuZ3I8w)
+ 
+ ⏩ [Microservices Database Pattern : CQRS - Command Query Responsibility Segregation](https://youtu.be/hrmeeCEqzo8)
+ 
+ ⏩ [Microservices Database Pattern : Data Consistency - Eventual vs Strong Consistency](https://youtu.be/SI9Ocb691ps)
+ 
+ ⏩ [Microservices Database Pattern : Event-Driven Architecture](https://youtu.be/ig24OzLH5gg)
+ 
+ ⏩ [Microservices Database Pattern : Event Sourcing](https://youtu.be/vMKA5SotUjQ)
+ 
+ ⏩ [Microservices Database Pattern : 2 Phase Commit](https://youtu.be/ZU122mPpsBE)
+  
+ ⏩ [Microservices Database Pattern : SAGA](https://youtu.be/69kqVIvp4p8)
+ 
+ ⏩ [Microservices Database Pattern : Summary](https://youtu.be/G1M3fGeadkY)
+ 
+ ⏩ [Microservices Communication : How microservices talk to each other](https://youtu.be/sFuFmhYTa9I)
+ 
+ ⏩ [Microservices Communication : Synchronous vs Asyncronous](https://youtu.be/S4U4n8qb13Q)
+ 
+ ⏩ [Microservices Communication :HTTP & REST](https://youtu.be/Kt8vq4hPSeU)
+ 
+ ⏩ [Microservices Communication: Message Based Communication](https://youtu.be/1GifcBWmXx0)
+ 
+ ⏩ [Microservices Communication: GraphQL](https://youtu.be/1GifcBWmXx0)
 
-🟢 [Testing microservices] - Todo
+ ⏩ Microservices Integration Patterns : API Gateway
+ 
+ ⏩ Microservices Integration Patterns : Aggregator Patter
+ 
+   * Chained Pattern
+  
+   * Branch Pattern
 
-🟢 [Event sourcing] - Todo
+ ⏩ Microservices Integration Patterns : Clientside UI Composition Pattern
+ 
+ ⏩ Microservices Deployment Patterns : Multiple service instances per host & Service instance per host
+ 
+ ⏩ Microservices Deployment Patterns : Service Instance per VM
+ 
+ ⏩ Microservices Deployment Patterns : Service instance per container
+ 
+ ⏩ Microservices Deployment Patterns : Serverless pattern
+ 
+ ⏩ Microservices Deployment Patterns : Blue-Green deployment
+ 
+ ⏩ Microservices Deployment Patterns : Canary deployment
+ 
+ ⏩ Microservices Observable Patterns : Log Aggregation & Distributed Tracing
+ 
+ ⏩ Microservices Observable Patterns : Health Check & Performance Metrics
+ 
+ ⏩ Microservices Cross Cutting Concern Patterns : External Configuration
+ 
+ ⏩ Microservices Cross Cutting Concern Patterns : Service Discovery & Registration Pattern
+ 
+ ⏩ Microservices Cross Cutting Concern Patterns : Circuit Breaker Pattern
+
+👉 [Load Balancer]
+
+👉 [Securing microservices]
+
+👉 [Testing microservices]
+
+👉 [Event sourcing]
 
 * ref - https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing?utm_source=thenewstack&utm_medium=website
 
-🟢 [Design patterns for microservices] - Todo
+👉 [Design patterns for microservices]
 
 * https://dzone.com/articles/design-patterns-for-microservices
 
 * https://microservices.io/patterns/microservices.html
 
-🟢 [Event loop] - Todo
+👉 [Event loop]
 
-🟢 [Reactive microservices] - Todo
+👉 [Reactive microservices]
 
 
 
