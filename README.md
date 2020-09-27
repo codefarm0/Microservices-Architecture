@@ -55,53 +55,28 @@ Microservices Architecture from scratch with real time examples.
 
  🌠 [Microservices Integration Patterns : Clientside UI Composition Pattern](https://youtu.be/ta_5i-Oq5tY)
  
- ⏩ Microservices Deployment Patterns : Multiple service instances per host & Service instance per host
+ 🍁 [Microservices Observable Patterns : Log Aggregation & Distributed Tracing](https://youtu.be/lf-5v5beJyo)
  
- ⏩ Microservices Deployment Patterns : Service Instance per VM
+ 🍁 [Microservices Observable Patterns : Health Check & Performance Metrics](https://youtu.be/lf-5v5beJyo)
  
- ⏩ Microservices Deployment Patterns : Service instance per container
+ 🔥 [Microservices Cross Cutting Concern Patterns : Circuit Breaker Pattern](https://youtu.be/PcVcVt0W1bI)
  
- ⏩ Microservices Deployment Patterns : Serverless pattern
+ 🔥 [Microservices Cross Cutting Concern Patterns : Service Registry & Discovery](https://youtu.be/jxL0zDCQJxU)
  
- ⏩ Microservices Deployment Patterns : Blue-Green deployment
+ 🔥 [Microservices Cross Cutting Concern Patterns : Load Balancer](https://youtu.be/aktjdShbTuI)
  
- ⏩ Microservices Deployment Patterns : Canary deployment
+ 🔥 [Microservices Cross Cutting Concern Patterns : External Configuration](https://youtu.be/nZH0XoGA7WQ)
  
- ⏩ Microservices Observable Patterns : Log Aggregation & Distributed Tracing
+ 🌈 [Microservices Deployment Patterns : What is Container | What is VM | Container vs VM](https://youtu.be/Dh2p34tbpCo)
  
- ⏩ Microservices Observable Patterns : Health Check & Performance Metrics
+ 🌈 [Microservices Deployment Patterns : Multiple service instances per host & Service instance per host | Service Instance per VM | Service Instance per Container](https://youtu.be/BgkTimOqzXU)
  
- ⏩ Microservices Cross Cutting Concern Patterns : External Configuration
+ 🌈 [Microservices Deployment Patterns : Serverless pattern](https://youtu.be/ZZYMFLsBMT8)
  
- ⏩ Microservices Cross Cutting Concern Patterns : Service Discovery & Registration Pattern
+ 🌈 Microservices Deployment Patterns : Blue-Green | Cananry | Rolling Patterns
  
- ⏩ Microservices Cross Cutting Concern Patterns : Circuit Breaker Pattern
+ ⏩ [Testing Microservices](https://github.com/greenlearner01/Microservices-Testing)
+ 
+ 
+ ## Microservices Architecture : Conclusion | What Next?
 
-👉 [Load Balancer]
-
-👉 [Securing microservices]
-
-👉 [Testing microservices]
-
-👉 [Event sourcing]
-
-* ref - https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing?utm_source=thenewstack&utm_medium=website
-
-👉 [Design patterns for microservices]
-
-* https://dzone.com/articles/design-patterns-for-microservices
-
-* https://microservices.io/patterns/microservices.html
-
-👉 [Event loop]
-
-👉 [Reactive microservices]
-
-
-
-Ref -
-1. https://thenewstack.io/new-pattern-language-set-make-microservices-easier/?utm_content=buffer74027&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-
-2. https://dzone.com/articles/design-patterns-for-microservices
-
-3. https://www.infoq.com/news/2020/03/multi-runtime-microservices/#:~:text=Although%2C%20serverless%20has%20more%20specific,multi%2Druntime%22%20microservices%20architectures.
