@@ -11,49 +11,49 @@ Microservices Architecture from scratch with real time examples.
 
  Microservices Characteristics :  Scalability | Availability | Resiliency | Isolating Failures | Continuous delivery
  
- ⏩ [Microservices Decomposition Pattern : By Domain and Subdomain](https://youtu.be/_U36FMfU1-M)
+ ⌨ [Microservices Decomposition Pattern : By Domain and Subdomain](https://youtu.be/_U36FMfU1-M)
  
- ⏩ [Microservices Decomposition Pattern : Strangler Vine Pattern](https://youtu.be/9qfhb9rQ9Q8)
+ ⌨ [Microservices Decomposition Pattern : Strangler Vine Pattern](https://youtu.be/9qfhb9rQ9Q8)
  
- ⏩ [Microservices Decomposition Pattern : Sidecar Pattern](https://youtu.be/NQzZq9uRmtg)
+ ⌨ [Microservices Decomposition Pattern : Sidecar Pattern](https://youtu.be/NQzZq9uRmtg)
  
- ⏩ [Microservices Decomposition Pattern : Service Mesh](https://youtu.be/u0-nWUL1I8g)
+ ⌨ [Microservices Decomposition Pattern : Service Mesh](https://youtu.be/u0-nWUL1I8g)
  
- ⏩ [Microservices Database Pattern : Database per service & Shared Database per service](https://youtu.be/azaksuZ3I8w)
+ 💾 [Microservices Database Pattern : Database per service & Shared Database per service](https://youtu.be/azaksuZ3I8w)
  
- ⏩ [Microservices Database Pattern : CQRS - Command Query Responsibility Segregation](https://youtu.be/hrmeeCEqzo8)
+ 💾 [Microservices Database Pattern : CQRS - Command Query Responsibility Segregation](https://youtu.be/hrmeeCEqzo8)
  
- ⏩ [Microservices Database Pattern : Data Consistency - Eventual vs Strong Consistency](https://youtu.be/SI9Ocb691ps)
+ 💾 [Microservices Database Pattern : Data Consistency - Eventual vs Strong Consistency](https://youtu.be/SI9Ocb691ps)
  
- ⏩ [Microservices Database Pattern : Event-Driven Architecture](https://youtu.be/ig24OzLH5gg)
+ 💾 [Microservices Database Pattern : Event-Driven Architecture](https://youtu.be/ig24OzLH5gg)
  
- ⏩ [Microservices Database Pattern : Event Sourcing](https://youtu.be/vMKA5SotUjQ)
+ 💾 [Microservices Database Pattern : Event Sourcing](https://youtu.be/vMKA5SotUjQ)
  
- ⏩ [Microservices Database Pattern : 2 Phase Commit](https://youtu.be/ZU122mPpsBE)
+ 💾 [Microservices Database Pattern : 2 Phase Commit](https://youtu.be/ZU122mPpsBE)
   
- ⏩ [Microservices Database Pattern : SAGA](https://youtu.be/69kqVIvp4p8)
+ 💾 [Microservices Database Pattern : SAGA](https://youtu.be/69kqVIvp4p8)
  
- ⏩ [Microservices Database Pattern : Summary](https://youtu.be/G1M3fGeadkY)
+ 💾 [Microservices Database Pattern : Summary](https://youtu.be/G1M3fGeadkY)
  
- ⏩ [Microservices Communication : How microservices talk to each other](https://youtu.be/sFuFmhYTa9I)
+ 📞 [Microservices Communication : How microservices talk to each other](https://youtu.be/sFuFmhYTa9I)
  
- ⏩ [Microservices Communication : Synchronous vs Asyncronous](https://youtu.be/S4U4n8qb13Q)
+ 📞 [Microservices Communication : Synchronous vs Asyncronous](https://youtu.be/S4U4n8qb13Q)
  
- ⏩ [Microservices Communication :HTTP & REST](https://youtu.be/Kt8vq4hPSeU)
+ 📞 [Microservices Communication :HTTP & REST](https://youtu.be/Kt8vq4hPSeU)
  
- ⏩ [Microservices Communication: Message Based Communication](https://youtu.be/1GifcBWmXx0)
+ 📞 [Microservices Communication: Message Based Communication](https://youtu.be/1GifcBWmXx0)
  
- ⏩ [Microservices Communication: GraphQL](https://youtu.be/1GifcBWmXx0)
+ 📞 [Microservices Communication: GraphQL](https://youtu.be/1GifcBWmXx0)
 
- ⏩ Microservices Integration Patterns : API Gateway
+ 🌠 [Microservices Integration Patterns : API Gateway](https://youtu.be/HFiV_JQY98Q)
  
- ⏩ Microservices Integration Patterns : Aggregator Patter
+ 🌠 [Microservices Integration Patterns : Aggregator Pattern](https://youtu.be/hGIe2wUmL2c)
  
    * Chained Pattern
   
    * Branch Pattern
 
- ⏩ Microservices Integration Patterns : Clientside UI Composition Pattern
+ 🌠 [Microservices Integration Patterns : Clientside UI Composition Pattern](https://youtu.be/ta_5i-Oq5tY)
  
  ⏩ Microservices Deployment Patterns : Multiple service instances per host & Service instance per host
  
