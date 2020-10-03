@@ -73,10 +73,12 @@ Microservices Architecture from scratch with real time examples.
  
  🌈 [Microservices Deployment Patterns : Serverless pattern](https://youtu.be/ZZYMFLsBMT8)
  
- 🌈 Microservices Deployment Patterns : Blue-Green | Cananry | Rolling Patterns
- 
- ⏩ [Testing Microservices](https://github.com/greenlearner01/Microservices-Testing)
+ 🌈 [Microservices Deployment Patterns : Blue-Green | Cananry | Rolling Patterns](https://youtu.be/1ttdAIO7rVg)
  
  
  ## Microservices Architecture : Conclusion | What Next?
+ 
+ ⏩ [Testing Microservices](https://github.com/greenlearner01/Microservices-Testing)
+ 
+ ⏩ [Demo & Demo](https://www.youtube.com/playlist?list=PLq3uEqRnr_2Hb9M-hz6GPVg_x9TUQ9PJA)
 
