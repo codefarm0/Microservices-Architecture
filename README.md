@@ -81,4 +81,6 @@ Microservices Architecture from scratch with real time examples.
  ⏩ [Testing Microservices](https://github.com/greenlearner01/Microservices-Testing)
  
  ⏩ [Demo & Demo](https://www.youtube.com/playlist?list=PLq3uEqRnr_2Hb9M-hz6GPVg_x9TUQ9PJA)
+ 
+ ⏩ [Microservices Projects Store: Demo Projects](https://github.com/greenlearner01/microservices-projects-store)
 
