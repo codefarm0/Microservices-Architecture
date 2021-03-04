@@ -89,5 +89,11 @@ Microservices Architecture from scratch with real time examples.
   
  ## Miscelaneous (Learning is not the DESTINATION but JOURNEY, so keep exploring ....)
  
+ Going to be helpful alot for interviews 
+ 
  🔥 Microservices Antipatterns
+ 
+ 🔥 CAP Theorem
+ 
+ 
 
